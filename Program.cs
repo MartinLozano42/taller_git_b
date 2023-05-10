@@ -16,7 +16,7 @@ namespace paragit
             n2=int.Parse(Console.ReadLine());
             suma= n1+ n2;
             Console.WriteLine("es " + suma);
-
+            Console.WriteLine("el diego es tetraputo");
 
         }
     }
