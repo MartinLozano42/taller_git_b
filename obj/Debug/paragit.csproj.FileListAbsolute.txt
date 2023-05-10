@@ -1,0 +1,8 @@
+C:\Users\Usuariocc\source\repos\paragit\bin\Debug\paragit.exe.config
+C:\Users\Usuariocc\source\repos\paragit\bin\Debug\paragit.exe
+C:\Users\Usuariocc\source\repos\paragit\bin\Debug\paragit.pdb
+C:\Users\Usuariocc\source\repos\paragit\obj\Debug\paragit.csproj.AssemblyReference.cache
+C:\Users\Usuariocc\source\repos\paragit\obj\Debug\paragit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuariocc\source\repos\paragit\obj\Debug\paragit.csproj.CoreCompileInputs.cache
+C:\Users\Usuariocc\source\repos\paragit\obj\Debug\paragit.exe
+C:\Users\Usuariocc\source\repos\paragit\obj\Debug\paragit.pdb
